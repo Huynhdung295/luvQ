@@ -24,7 +24,7 @@ document.getElementById("it3").addEventListener("click", function () {
   document.getElementById("wr3").classList.add("wr2");
 });
 document.getElementById("ch1").addEventListener("click", function () {
-  alert("Yêu em nhất trên đời!!");
+  alert("Quỳnh luôn là nhất!!");
   location.reload();
 });
 function click() {
